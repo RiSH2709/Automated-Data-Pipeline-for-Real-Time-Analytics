@@ -63,5 +63,6 @@ PAST_DAYS — number of past days to fetch (default 3)
 
 RUN_INTERVAL_SECONDS — time between pipeline runs in seconds (default 3600 for 1 hour)
 
+
 OUTPUT_DIR — directory where CSV and HTML files are saved
 
